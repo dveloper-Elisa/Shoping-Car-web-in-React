@@ -7,7 +7,7 @@ export default function Navigation() {
       <div className=" text-white md:flex md:gap-8 md:justify-between bg-black md:items-center md:mx-16 md:py-3 sticky top-0 z-50 max-w-screen">
         <div className="log">
           <img
-            src="./public/photo/logo-removebg-preview.png"
+            src="./photo/logo-removebg-preview.png"
             className="w-[6vw] md:block hidden"
             alt=""
           />

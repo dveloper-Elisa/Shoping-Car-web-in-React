@@ -28,7 +28,7 @@ export default function Home() {
 
         <div className="flex justify-center">
           <img
-            src="./public/photo/10-removebg-preview.png"
+            src="./photo/10-removebg-preview.png"
             alt="first image not found"
             className="-rotate-12 max-w-3xl z-0"
           />
@@ -39,7 +39,7 @@ export default function Home() {
         <div className="md:flex md:flex-col flex-wrap flex justify-center mt-12 gap-3">
           <div className="bg-gray-700 max-w-fit flex justify-end rounded-xl">
             <img
-              src="./public/photo/3-removebg-preview.png"
+              src="./photo/3-removebg-preview.png"
               alt="second image"
               className=" rounded-xl p-1 max-w-[15rem]"
             />
@@ -47,7 +47,7 @@ export default function Home() {
 
           <div className="bg-gray-700 max-w-fit flex justify-end rounded-xl ">
             <img
-              src="./public/photo/5-removebg-preview.png"
+              src="./photo/5-removebg-preview.png"
               alt="second image"
               className=" rounded-xl p-1 max-w-[15rem]"
             />
@@ -58,14 +58,14 @@ export default function Home() {
             className="bg-gray-700 max-w-fit flex justify-end rounded-xl"
           >
             <img
-              src="./public/photo/6-removebg-preview.png"
+              src="./photo/6-removebg-preview.png"
               alt="second image"
               className=" rounded-xl p-1 max-w-[15rem]"
             />
           </div>
           <div className="bg-gray-700 max-w-fit flex justify-end rounded-xl">
             <img
-              src="./public/photo/7-removebg-preview.png"
+              src="./photo/7-removebg-preview.png"
               alt="second image"
               className=" rounded-xl p-1 max-w-[15rem]"
             />

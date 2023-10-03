@@ -22,7 +22,7 @@ export default function Collection() {
           </div>
           <div className="flex justify-end">
             <img
-              src="./public/photo/12-removebg-preview.png"
+              src="./photo/12-removebg-preview.png"
               alt="photo not found"
               className="mix-blend-hard-light -rotate-12"
             />
@@ -45,10 +45,7 @@ export default function Collection() {
               </button>
             </div>
             <div className="flex justify-end">
-              <img
-                src="./public/photo/2-removebg-preview.png"
-                alt="photo not found"
-              />
+              <img src="./photo/2-removebg-preview.png" alt="photo not found" />
             </div>
           </div>
 
@@ -58,7 +55,7 @@ export default function Collection() {
                 <h4>New Hammer </h4>
               </div>
               <img
-                src="./public/photo/8-removebg-preview.png"
+                src="./photo/8-removebg-preview.png"
                 alt="photo not found"
                 className="h-[20vh] md:w-[12vw] w-fit"
               />
@@ -74,7 +71,7 @@ export default function Collection() {
                 <h4>White Hammer </h4>
 
                 <img
-                  src="./public/photo/9-removebg-preview.png"
+                  src="./photo/9-removebg-preview.png"
                   alt="photo not found"
                   className=" rounded h-[19vh] md:w-[12vw] w-fit"
                 />
