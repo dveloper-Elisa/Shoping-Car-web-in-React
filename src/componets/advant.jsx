@@ -28,7 +28,7 @@ export default function Advant() {
 
         <div className="flex justify-center">
           <img
-            src="./public/photo/10-removebg-preview.png"
+            src="./photo/10-removebg-preview.png"
             alt="first image not found"
             className="-rotate-12 max-w-3xl z-0"
           />

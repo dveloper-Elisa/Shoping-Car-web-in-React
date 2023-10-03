@@ -5,7 +5,7 @@ export default function Home() {
         id="home"
         className="md:flex md:mx-16 md:items-center md:justify-between md:my-2 m-2"
       >
-        <div className="md:flex md:flex-col  justify-center gap-2 md:max-w-[25vw] flex  flex-col max-w-[50vw] m-16">
+        <div className="md:flex md:flex-col  justify-center gap-2 md:max-w-[25vw] flex  flex-col max-w-[50vw]">
           <h3 className="text-sky-900 font-bold first-letter:uppercase">
             merce Denz <a href="#benzi">benzi</a>
           </h3>
